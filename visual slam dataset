@@ -1,0 +1,4 @@
+## ICL-NUIM dataset
+descript: The ICL-NUIM dataset aims at benchmarking RGB-D, Visual Odometry and SLAM algorithms. 
+link：https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
+note: 数据集不能够直接下载，好像需要自己下载生成代码生成。
